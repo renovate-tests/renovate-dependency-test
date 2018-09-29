@@ -6,7 +6,7 @@
       "groupName": "demogroup"
     }
   ],
-  "gomode": {
+  "gomod": {
     "enabled": true
   },
   "renovateFork": true
