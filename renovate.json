@@ -9,6 +9,6 @@
   "gomod": {
     "enabled": true
   },
-  "postUpdateOptions": ["gomodTidy"],
+  "postUpdateOptions": ["gomodTidy", "gomodNoMassage"],
   "renovateFork": true
 }
